@@ -31,8 +31,8 @@ function sayHiToGrandma(string){
 // 1. set string to lower case
 // 2. compare that to 'string'
 
-if(string.toLowerCase() === string){
-  
+if (string.toLowerCase() === string){
+  return 
 }
 
 
