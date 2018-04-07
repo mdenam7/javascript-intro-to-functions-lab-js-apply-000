@@ -27,7 +27,14 @@ function sayHiToGrandma(string){
 function sayHiToGrandma(string){
   
  return('yes indeed!').toUpperCase();
+
+// 1. set string to lower case
+// 2. compare that to 'string'
+
+if(string.toLowerCase() === string){
   
+}
+
 
 
 
