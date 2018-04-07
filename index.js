@@ -25,33 +25,12 @@ function sayHiToGrandma(string){
 }
 
 function sayHiToGrandma(string){
-  
- return('yes indeed!').toUpperCase();
 
   if (string.toLowerCase() === string) {
     return "I can't hear you!"
-  } else 
-
-  if (string.toUpperCase() === string) {
+  } else if (string.toUpperCase() === string) {
     return "YES INDEED!"
-  }
-
-  if (string === "I love you, Grandma.") {
+  } else  if (string === "I love you, Grandma.") {
     return "I love you, too."
-  }n 
+  }
 }
-
-
-
-
-
-function sayHiToGrandma(string){
-  var sayHi = "I love you, grandma"
-  var grandma = "I love you, too."
- return (grandma)
- }
-} 
-
-
-
-
